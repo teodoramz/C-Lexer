@@ -1,0 +1,26 @@
+﻿int a;
+a = 2 + 3;
+int b=3;
+
+b = a * (b + 1 );
+
+
+string str1="Teo";
+string str2 = " are mere";
+str2 = str1 + str2;
+
+float f1 = 1;
+float f2;
+
+f2 = f1 + 2.5;
+
+float f3;
+f3 = f2*2;
+
+int ex = 5;
+
+ex = ex / 0;
+
+string strEx;
+
+strEx = str1 * str2;
